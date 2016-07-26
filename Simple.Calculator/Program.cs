@@ -10,6 +10,8 @@ namespace Simple.Calculator
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
