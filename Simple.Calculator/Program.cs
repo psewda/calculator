@@ -12,6 +12,11 @@ namespace Simple.Calculator
         {
             var abc = "prakash";
             var k1 = abc + "v1";
+
+            if(string.IsNullOrEmpty(abc))
+            {
+                string str = "wow";
+            }
         }
     }
 }
