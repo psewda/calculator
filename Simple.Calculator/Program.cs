@@ -15,7 +15,7 @@ namespace Simple.Calculator
 
             if(string.IsNullOrEmpty(abc))
             {
-                string str = "wow-newline";
+                string str = "wow-newlinewqwqeqw";
             }
         }
     }
